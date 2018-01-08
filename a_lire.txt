@@ -1,0 +1,1 @@
+Le projet consiste a gerer les talents on a deux sortes de projet un qui mqrche avec le consol et un autre qui mqrche avec l'interface grafic developper avec javafx
